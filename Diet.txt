@@ -16,3 +16,12 @@ paneer 			:: 50
 bread 			:: 20
 egg 			:: 140
 
+	500ml
+Apple Cider
+	Vinegar		:: 190
+	
+	100gm
+Psyllium whole husk 
+				:: 170
+Niacin			:: 400
+
